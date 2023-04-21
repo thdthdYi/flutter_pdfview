@@ -1,6 +1,6 @@
 # flutter_pdfviewer_controller
 
-A new Flutter project.
+모바일 앱 화면에서 PDF file을 바로 읽기 구현
 
 ## Getting Started
 
