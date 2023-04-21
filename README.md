@@ -6,6 +6,7 @@
 
 This project is a starting point for a Flutter application.
 
+
 GetX 라이브러리를 활용한 controller 관리.
 
 native_pdf_view 라이브러리를 활용한 pdf뷰어 구현.
